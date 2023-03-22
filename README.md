@@ -30,6 +30,6 @@
   Email: rachelwildberger@icloud.com
   
   ## License 
-  README Generator is licensed under the: 
+  Social Network API is licensed under the: 
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
