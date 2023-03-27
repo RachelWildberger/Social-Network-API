@@ -10,7 +10,6 @@ module.exports = {
     // Get single user
     getSingleUser(req, res) {
         User.findOne({ _id: req.params.userId })
-
             .select('-__v')
             .then((user) =>
                 !user

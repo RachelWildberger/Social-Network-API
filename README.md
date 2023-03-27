@@ -27,7 +27,7 @@
   ![Insomnia](./assets/social-network-inspmnia.png)
 
   ## Useage 
-  Use the command ``npm start`` to run the application on the localhost:3001. To see a walkthrough of the application watch video [here]().
+  Use the command ``npm start`` to run the application on the localhost:3001. To see a walkthrough of the application watch video [here](https://drive.google.com/file/d/1AMNR-UVMHBnIxShYavMgrDMnkfbBcPeF/view?usp=sharing).
 
   ## User Routes
   ``GET /api/users``
