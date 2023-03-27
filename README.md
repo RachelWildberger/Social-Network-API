@@ -22,6 +22,10 @@
 
   This application also uses [Insomnia](https://insomnia.rest/) to test API's and [MongoDB Compass](https://www.mongodb.com/products/compass) to analyze and see MongoDB data.
 
+  ![MongoDB](./assets/social-network-db-users.png)
+
+  ![Insomnia](./assets/social-network-inspmnia.png)
+
   ## Useage 
   Use the command ``npm start`` to run the application on the localhost:3001. To see a walkthrough of the application watch video [here]().
 
